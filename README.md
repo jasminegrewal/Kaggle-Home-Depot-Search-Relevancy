@@ -1,6 +1,8 @@
 # Kaggle-Home-Depot-Search-Relevancy
 *Machine Learning model to improve Search Relevancy for Home Depot.*
 
+**Visit**:[Kaggle Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance) for more info and data file (could not upload on GitHub because of size)
+
 **Implementation Details**: (using cosine similarity and linear regression)
 * Starting by reading all the input files into a pandas dataframe in python. The next step is to
 extract the desired information from product_descriptions and attributes file.
